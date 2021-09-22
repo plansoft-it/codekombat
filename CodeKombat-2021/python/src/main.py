@@ -1,0 +1,1 @@
+print('CodeKombat template')

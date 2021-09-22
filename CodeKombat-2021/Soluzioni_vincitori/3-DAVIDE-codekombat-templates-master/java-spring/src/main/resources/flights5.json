@@ -1,0 +1,386 @@
+[
+  {
+    "id": 226,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "PIH",
+    "arrivalAirport": "PJG"
+  },
+  {
+    "id": 227,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "CLT",
+    "arrivalAirport": "GOT"
+  },
+  {
+    "id": 228,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "VDS",
+    "arrivalAirport": "UBJ"
+  },
+  {
+    "id": 229,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "VRK",
+    "arrivalAirport": "TRN"
+  },
+  {
+    "id": 230,
+    "price": 360,
+    "handBaggagePrice": 72,
+    "extraBaggagePrice": 108,
+    "departureAirport": "BUQ",
+    "arrivalAirport": "TRN"
+  },
+  {
+    "id": 231,
+    "price": 360,
+    "handBaggagePrice": 72,
+    "extraBaggagePrice": 108,
+    "departureAirport": "TWB",
+    "arrivalAirport": "GLD"
+  },
+  {
+    "id": 232,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "SLK",
+    "arrivalAirport": "SFA"
+  },
+  {
+    "id": 233,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "VRK",
+    "arrivalAirport": "SLK"
+  },
+  {
+    "id": 234,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "CLE",
+    "arrivalAirport": "DVO"
+  },
+  {
+    "id": 235,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "DVO",
+    "arrivalAirport": "SGU"
+  },
+  {
+    "id": 236,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "LAX",
+    "arrivalAirport": "XLV"
+  },
+  {
+    "id": 237,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "GCN",
+    "arrivalAirport": "HRO"
+  },
+  {
+    "id": 238,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "TWB",
+    "arrivalAirport": "UBJ"
+  },
+  {
+    "id": 239,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "JIB",
+    "arrivalAirport": "DPS"
+  },
+  {
+    "id": 240,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "TRN",
+    "arrivalAirport": "YSF"
+  },
+  {
+    "id": 241,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "BUQ",
+    "arrivalAirport": "ACI"
+  },
+  {
+    "id": 242,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "ACI",
+    "arrivalAirport": "GWT"
+  },
+  {
+    "id": 243,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "GWT",
+    "arrivalAirport": "GCN"
+  },
+  {
+    "id": 244,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "UBJ",
+    "arrivalAirport": "VDS"
+  },
+  {
+    "id": 245,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "YRB",
+    "arrivalAirport": "SFA"
+  },
+  {
+    "id": 246,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "TWB",
+    "arrivalAirport": "AUS"
+  },
+  {
+    "id": 247,
+    "price": 360,
+    "handBaggagePrice": 72,
+    "extraBaggagePrice": 108,
+    "departureAirport": "BMI",
+    "arrivalAirport": "JIB"
+  },
+  {
+    "id": 248,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "DPS",
+    "arrivalAirport": "PIH"
+  },
+  {
+    "id": 249,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "GLD",
+    "arrivalAirport": "GOT"
+  },
+  {
+    "id": 250,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "BMI",
+    "arrivalAirport": "YSF"
+  },
+  {
+    "id": 251,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "MKK",
+    "arrivalAirport": "GWT"
+  },
+  {
+    "id": 252,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "UBJ",
+    "arrivalAirport": "PSR"
+  },
+  {
+    "id": 253,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "AUS",
+    "arrivalAirport": "TWB"
+  },
+  {
+    "id": 254,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "EDI",
+    "arrivalAirport": "VRK"
+  },
+  {
+    "id": 255,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "XFD",
+    "arrivalAirport": "EDI"
+  },
+  {
+    "id": 256,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "TRN",
+    "arrivalAirport": "MKK"
+  },
+  {
+    "id": 257,
+    "price": 360,
+    "handBaggagePrice": 72,
+    "extraBaggagePrice": 108,
+    "departureAirport": "JIB",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "id": 258,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "EDI",
+    "arrivalAirport": "GWT"
+  },
+  {
+    "id": 259,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "MKK",
+    "arrivalAirport": "VDS"
+  },
+  {
+    "id": 260,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "UBJ",
+    "arrivalAirport": "CLE"
+  },
+  {
+    "id": 261,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "CLE",
+    "arrivalAirport": "XFD"
+  },
+  {
+    "id": 262,
+    "price": 8,
+    "handBaggagePrice": 1.6,
+    "extraBaggagePrice": 2.4,
+    "departureAirport": "SGU",
+    "arrivalAirport": "AUS"
+  },
+  {
+    "id": 263,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "BMI",
+    "arrivalAirport": "EDI"
+  },
+  {
+    "id": 264,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "XLV",
+    "arrivalAirport": "BUQ"
+  },
+  {
+    "id": 265,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "TWB",
+    "arrivalAirport": "LAX"
+  },
+  {
+    "id": 266,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "RUT",
+    "arrivalAirport": "BMI"
+  },
+  {
+    "id": 267,
+    "price": 480,
+    "handBaggagePrice": 96,
+    "extraBaggagePrice": 144,
+    "departureAirport": "HRO",
+    "arrivalAirport": "XFD"
+  },
+  {
+    "id": 268,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "EDI",
+    "arrivalAirport": "PJG"
+  },
+  {
+    "id": 269,
+    "price": 240,
+    "handBaggagePrice": 48,
+    "extraBaggagePrice": 72,
+    "departureAirport": "USN",
+    "arrivalAirport": "PSR"
+  },
+  {
+    "id": 270,
+    "price": 180,
+    "handBaggagePrice": 36,
+    "extraBaggagePrice": 54,
+    "departureAirport": "BHB",
+    "arrivalAirport": "UBJ"
+  },
+  {
+    "id": 271,
+    "price": 360,
+    "handBaggagePrice": 72,
+    "extraBaggagePrice": 108,
+    "departureAirport": "PIH",
+    "arrivalAirport": "BUQ"
+  },
+  {
+    "id": 272,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "RGL",
+    "arrivalAirport": "JIB"
+  },
+  {
+    "id": 273,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "HRO",
+    "arrivalAirport": "RGL"
+  }
+]

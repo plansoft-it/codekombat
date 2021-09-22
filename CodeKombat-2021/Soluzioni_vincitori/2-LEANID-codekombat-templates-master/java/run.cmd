@@ -1,0 +1,1 @@
+mvnw.cmd compile exec:java

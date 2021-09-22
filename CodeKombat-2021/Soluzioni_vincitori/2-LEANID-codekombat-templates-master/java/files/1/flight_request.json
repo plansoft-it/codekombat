@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "numPersons": 10,
+  "numHandBaggage": 5,
+  "numExtraBaggage": 4,
+  "departureAirport": "BHD",
+  "arrivalAirport": "PVC"
+}
+                

@@ -1,0 +1,506 @@
+[
+  {
+    "id": 274,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "HKN",
+    "arrivalAirport": "HYA"
+  },
+  {
+    "id": 275,
+    "price": 14,
+    "handBaggagePrice": 2.8,
+    "extraBaggagePrice": 4.2,
+    "departureAirport": "HYA",
+    "arrivalAirport": "DAL"
+  },
+  {
+    "id": 276,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "MDZ",
+    "arrivalAirport": "XRY"
+  },
+  {
+    "id": 277,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "MDZ",
+    "arrivalAirport": "REU"
+  },
+  {
+    "id": 278,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "SMF",
+    "arrivalAirport": "ACE"
+  },
+  {
+    "id": 279,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "RHO",
+    "arrivalAirport": "CPH"
+  },
+  {
+    "id": 280,
+    "price": 14,
+    "handBaggagePrice": 2.8,
+    "extraBaggagePrice": 4.2,
+    "departureAirport": "REU",
+    "arrivalAirport": "TPA"
+  },
+  {
+    "id": 281,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "TPA",
+    "arrivalAirport": "SJI"
+  },
+  {
+    "id": 282,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "LAF",
+    "arrivalAirport": "XRY"
+  },
+  {
+    "id": 283,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "SDX",
+    "arrivalAirport": "MDZ"
+  },
+  {
+    "id": 284,
+    "price": 21,
+    "handBaggagePrice": 4.2,
+    "extraBaggagePrice": 6.3,
+    "departureAirport": "ACE",
+    "arrivalAirport": "ITO"
+  },
+  {
+    "id": 285,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "HKN",
+    "arrivalAirport": "POS"
+  },
+  {
+    "id": 286,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "RHO",
+    "arrivalAirport": "YYU"
+  },
+  {
+    "id": 287,
+    "price": 13,
+    "handBaggagePrice": 2.6,
+    "extraBaggagePrice": 3.9,
+    "departureAirport": "TRI",
+    "arrivalAirport": "GPT"
+  },
+  {
+    "id": 288,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "STR",
+    "arrivalAirport": "BVB"
+  },
+  {
+    "id": 289,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "YYU",
+    "arrivalAirport": "GKA"
+  },
+  {
+    "id": 290,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "STR",
+    "arrivalAirport": "MKL"
+  },
+  {
+    "id": 291,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "GKA",
+    "arrivalAirport": "XFL"
+  },
+  {
+    "id": 292,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "XFL",
+    "arrivalAirport": "GOA"
+  },
+  {
+    "id": 293,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "GOA",
+    "arrivalAirport": "STR"
+  },
+  {
+    "id": 294,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "YPF",
+    "arrivalAirport": "OHD"
+  },
+  {
+    "id": 295,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "POS",
+    "arrivalAirport": "SDX"
+  },
+  {
+    "id": 296,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "XRY",
+    "arrivalAirport": "ITO"
+  },
+  {
+    "id": 297,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "YPF",
+    "arrivalAirport": "YYU"
+  },
+  {
+    "id": 298,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "AHN",
+    "arrivalAirport": "OHD"
+  },
+  {
+    "id": 299,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "BEG",
+    "arrivalAirport": "ABE"
+  },
+  {
+    "id": 300,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "SJI",
+    "arrivalAirport": "LAF"
+  },
+  {
+    "id": 301,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "CPH",
+    "arrivalAirport": "ITO"
+  },
+  {
+    "id": 302,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "CPH",
+    "arrivalAirport": "HVB"
+  },
+  {
+    "id": 303,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "TPA",
+    "arrivalAirport": "REU"
+  },
+  {
+    "id": 304,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "JLN",
+    "arrivalAirport": "YMT"
+  },
+  {
+    "id": 305,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "SDX",
+    "arrivalAirport": "LWS"
+  },
+  {
+    "id": 306,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "MKL",
+    "arrivalAirport": "MDZ"
+  },
+  {
+    "id": 307,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "BVB",
+    "arrivalAirport": "XRY"
+  },
+  {
+    "id": 308,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "CPH",
+    "arrivalAirport": "POS"
+  },
+  {
+    "id": 309,
+    "price": 10,
+    "handBaggagePrice": 2,
+    "extraBaggagePrice": 3,
+    "departureAirport": "SJI",
+    "arrivalAirport": "SMF"
+  },
+  {
+    "id": 310,
+    "price": 9,
+    "handBaggagePrice": 1.8,
+    "extraBaggagePrice": 2.7,
+    "departureAirport": "POS",
+    "arrivalAirport": "TRI"
+  },
+  {
+    "id": 311,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "SDX",
+    "arrivalAirport": "AHN"
+  },
+  {
+    "id": 312,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "ACE",
+    "arrivalAirport": "AJA"
+  },
+  {
+    "id": 313,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "AJA",
+    "arrivalAirport": "OOL"
+  },
+  {
+    "id": 314,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "DAL",
+    "arrivalAirport": "BEG"
+  },
+  {
+    "id": 315,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "SJI",
+    "arrivalAirport": "BEG"
+  },
+  {
+    "id": 316,
+    "price": 132,
+    "handBaggagePrice": 26.4,
+    "extraBaggagePrice": 39.6,
+    "departureAirport": "LWS",
+    "arrivalAirport": "MDZ"
+  },
+  {
+    "id": 317,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "TRI",
+    "arrivalAirport": "ACE"
+  },
+  {
+    "id": 318,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "TPA",
+    "arrivalAirport": "SWQ"
+  },
+  {
+    "id": 319,
+    "price": 13,
+    "handBaggagePrice": 2.6,
+    "extraBaggagePrice": 3.9,
+    "departureAirport": "STR",
+    "arrivalAirport": "LAF"
+  },
+  {
+    "id": 320,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "DAL",
+    "arrivalAirport": "HVB"
+  },
+  {
+    "id": 321,
+    "price": 12,
+    "handBaggagePrice": 2.4,
+    "extraBaggagePrice": 3.6,
+    "departureAirport": "GPT",
+    "arrivalAirport": "YPF"
+  },
+  {
+    "id": 322,
+    "price": 132,
+    "handBaggagePrice": 26.4,
+    "extraBaggagePrice": 39.6,
+    "departureAirport": "OHD",
+    "arrivalAirport": "ABE"
+  },
+  {
+    "id": 323,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "AHN",
+    "arrivalAirport": "ACE"
+  },
+  {
+    "id": 324,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "POS",
+    "arrivalAirport": "AHN"
+  },
+  {
+    "id": 325,
+    "price": 14,
+    "handBaggagePrice": 2.8,
+    "extraBaggagePrice": 4.2,
+    "departureAirport": "DAL",
+    "arrivalAirport": "JLN"
+  },
+  {
+    "id": 326,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "HYA",
+    "arrivalAirport": "ODW"
+  },
+  {
+    "id": 327,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "XFL",
+    "arrivalAirport": "OHD"
+  },
+  {
+    "id": 328,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "ACE",
+    "arrivalAirport": "CPH"
+  },
+  {
+    "id": 329,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "XAZ",
+    "arrivalAirport": "GOA"
+  },
+  {
+    "id": 330,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "YXH",
+    "arrivalAirport": "GPT"
+  },
+  {
+    "id": 331,
+    "price": 99,
+    "handBaggagePrice": 19.8,
+    "extraBaggagePrice": 29.7,
+    "departureAirport": "SWQ",
+    "arrivalAirport": "ODW"
+  },
+  {
+    "id": 332,
+    "price": 11,
+    "handBaggagePrice": 2.2,
+    "extraBaggagePrice": 3.3,
+    "departureAirport": "JLN",
+    "arrivalAirport": "SDX"
+  },
+  {
+    "id": 333,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "SMF",
+    "arrivalAirport": "AHN"
+  },
+  {
+    "id": 334,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "MKL",
+    "arrivalAirport": "OHD"
+  },
+  {
+    "id": 335,
+    "price": 198,
+    "handBaggagePrice": 39.6,
+    "extraBaggagePrice": 59.4,
+    "departureAirport": "XFL",
+    "arrivalAirport": "BEG"
+  },
+  {
+    "id": 336,
+    "price": 264,
+    "handBaggagePrice": 52.8,
+    "extraBaggagePrice": 79.2,
+    "departureAirport": "AJA",
+    "arrivalAirport": "ODW"
+  }
+]
